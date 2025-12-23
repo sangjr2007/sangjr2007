@@ -1,45 +1,49 @@
-# 👋 Xin chào, mình là Sang
+# 👋 Hi, I'm Sang
 
-🎓 Sinh viên | Người mới học lập trình  
-💻 Đang học: C, C++, Python, Excel  
-📍 Việt Nam 🇻🇳
-
----
-
-## 🧑‍💻 Về mình
-- Mình đang trong quá trình học **lập trình cơ bản**
-- Thường xuyên làm **bài tập C**
-- Mong muốn phát triển lên **lập trình viên trong tương lai**
+🎓 Student | Beginner Programmer  
+💻 Currently learning: C, C++, Python, Excel  
+📍 Vietnam 🇻🇳
 
 ---
 
-## 🚀 Kỹ năng đang học
-- 🔹 Ngôn ngữ: **C / C++**
-- 🔹 Tin học: **Excel cơ bản , Word microsoft**
-- 🔹 Công cụ: **Git & GitHub**
-- 🔹 Kiến thức: Vòng lặp, mảng, điều kiện, hàm
+## 🧑‍💻 About Me
+I am a beginner in programming and currently learning fundamental concepts.
+I use GitHub to store my exercises, track my progress, and improve my skills every day.
 
 ---
 
-## 📁 Repository tiêu biểu
-- 📘 **baitap-c** – Bài tập C cơ bản  
-- 📊 **hoc-excel** – Công thức & bài tập Excel  
-
-
----
-
-## 🎯 Mục tiêu
-- ✔ Thành thạo GitHub
-- ✔ Hoàn thành bài tập & đồ án
-- ✔ Xây dựng project cá nhân
-- ✔ Nâng cao kỹ năng lập trình
+## 🚀 Skills & Tools
+![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
 
 ---
 
-## 📫 Liên hệ
-- 📘 Facebook: https://facebook.com/sangjr2007
-- 🎵 TikTok: https://tiktok.com/@sangjr07
+## 📂 Featured Repositories
+- 📘 **baitap-c** – C programming exercises  
+- 📊 **hoc-excel** – Excel formulas & practice  
 
 ---
 
-⭐ Cảm ơn bạn đã ghé thăm GitHub của mình!
+## 📈 GitHub Stats
+![Sang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjr2007&show_icons=true&theme=tokyonight)
+
+---
+
+## 🎯 Goals
+- Improve programming skills
+- Build personal projects
+- Use GitHub professionally
+- Become a better developer step by step
+
+---
+
+## 📫 Contact Me
+- Facebook: https://facebook.com/sangjr2007
+- TikTok: https://tiktok.com/@sangjr07
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
+
