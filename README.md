@@ -1,16 +1,45 @@
-## Sang Phạm (zuss) 👋
+# 👋 Xin chào, mình là Sang
 
-<!--
-**sangjr2007/sangjr2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sinh viên | Người mới học lập trình  
+💻 Đang học: C, C++, Python, Excel  
+📍 Việt Nam 🇻🇳
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Về mình
+- Mình đang trong quá trình học **lập trình cơ bản**
+- Thường xuyên làm **bài tập C**
+- Mong muốn phát triển lên **lập trình viên trong tương lai**
+
+---
+
+## 🚀 Kỹ năng đang học
+- 🔹 Ngôn ngữ: **C / C++**
+- 🔹 Tin học: **Excel cơ bản , Word microsoft**
+- 🔹 Công cụ: **Git & GitHub**
+- 🔹 Kiến thức: Vòng lặp, mảng, điều kiện, hàm
+
+---
+
+## 📁 Repository tiêu biểu
+- 📘 **baitap-c** – Bài tập C cơ bản  
+- 📊 **hoc-excel** – Công thức & bài tập Excel  
+
+
+---
+
+## 🎯 Mục tiêu
+- ✔ Thành thạo GitHub
+- ✔ Hoàn thành bài tập & đồ án
+- ✔ Xây dựng project cá nhân
+- ✔ Nâng cao kỹ năng lập trình
+
+---
+
+## 📫 Liên hệ
+- 📘 Facebook: https://facebook.com/sangjr2007
+- 🎵 TikTok: https://tiktok.com/@sangjr07
+
+---
+
+⭐ Cảm ơn bạn đã ghé thăm GitHub của mình!
