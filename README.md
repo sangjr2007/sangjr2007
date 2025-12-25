@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 I am a beginner in programming and currently learning fundamental concepts.
-I will strive to continuously improve myself.
+Currently, I don't have much experience in the field of programming, but I will try to develop myself every day and achieve my desired results during my studies and after graduation.
 
 ---
 
