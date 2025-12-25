@@ -18,18 +18,7 @@ I use GitHub to store my exercises, track my progress, and improve my skills eve
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
 
----
 
-## 📂 Featured Repositories
-- 📘 **baitap-c** – C programming exercises  
-- 📊 **hoc-excel** – Excel formulas & practice  
-
----
-
-## 📈 GitHub Stats
-![Sang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjr2007&show_icons=true&theme=tokyonight)
-
----
 
 ## 🎯 Goals
 - Improve programming skills
