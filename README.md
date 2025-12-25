@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 I am a beginner in programming and currently learning fundamental concepts.
-I use GitHub to store my exercises, track my progress, and improve my skills every day.
+I will strive to continuously improve myself.
 
 ---
 
