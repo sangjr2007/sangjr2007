@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sang
 
 🎓 Student | Beginner Programmer  
-💻 Currently learning: C, C++, Excel  
+💻 Currently learning: C, C++.
 📍 Vietnam 🇻🇳
 
 ---
