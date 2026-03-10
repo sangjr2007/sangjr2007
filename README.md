@@ -15,7 +15,6 @@ Currently, I don't have much experience in the field of programming, but I will 
 ## 🚀 Skills & Tools
 ![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
 
 
