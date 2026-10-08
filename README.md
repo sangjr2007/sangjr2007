@@ -13,8 +13,7 @@ Currently, I don't have much experience in the field of programming, but I will 
 ---
 
 ## 🚀 Skills & Tools
-![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
 
 
