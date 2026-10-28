@@ -27,8 +27,7 @@ Currently, I don't have much experience in the field of programming, but I will 
 ---
 
 ## 📫 Contact Me
-- Facebook: https://facebook.com/sangjr2007
-- TikTok: https://tiktok.com/@sangjr07
+- Email: sangphamdi200@gmail.com
 
 ---
 
